@@ -1,0 +1,11 @@
+{
+  "name": "creator-electron-app",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "creator-electron start",
+    "shell": "creator-electron shell"
+  },
+  "devDependencies": {
+    "creator-electron": "git+https://github.com/mkramb/creator-electron.git"
+  }
+}
